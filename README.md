@@ -1,0 +1,1 @@
+A scalable full-stack e-learning web application inspired by Udemy, built with a modern Java Spring Boot backend and React frontend. The platform allows users to browse courses, enroll, and learn online, while admins can manage courses and content.
